@@ -2,10 +2,10 @@
 计网理论课程项目，实现虚拟路由功能
 
 ## 一、 任务要求
-![](http://pf8ex066q.bkt.clouddn.com/20181117091855.png)
-![](http://pf8ex066q.bkt.clouddn.com/20181117091949.png)
-![](http://pf8ex066q.bkt.clouddn.com/20181117092039.png)
-![](http://pf8ex066q.bkt.clouddn.com/20181117092104.png)
+![](https://github.com/JoshuaQYH/ComNetProject2/blob/master/%E4%BB%BB%E5%8A%A1%E6%88%AA%E5%9B%BE/1.jpg)
+![](https://github.com/JoshuaQYH/ComNetProject2/blob/master/%E4%BB%BB%E5%8A%A1%E6%88%AA%E5%9B%BE/2.jpg)
+![](https://github.com/JoshuaQYH/ComNetProject2/blob/master/%E4%BB%BB%E5%8A%A1%E6%88%AA%E5%9B%BE/3.jpg)
+![](https://github.com/JoshuaQYH/ComNetProject2/blob/master/%E4%BB%BB%E5%8A%A1%E6%88%AA%E5%9B%BE/4.jpg)
 
 ## 二、实验环境
  IDE： Visual stdio 2017
@@ -20,7 +20,7 @@
 ## 三、实验分工
 | 姓名 | 邱奕浩 | 王广浩 | 王德超 |
 |---- | ---- | ------ | -----|
-| 前期分工 | 前期基础架构，通信协议，DV算法|  LS算法，基本测试| 路由信息更新，基本测试|
+| 前期分工 | 前期基础架构，通信协议，DV算法|  LS算法，基本测试| 路由信息更新，设计多个1~2topo，基本测试|
 | 后期分工 | PPT 和 实验报告|  实验报告和测试  | 实验报告和测试 |
 
 ## 三、实验进度安排
