@@ -1,0 +1,261 @@
+﻿  ControlUnit.cpp
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(25): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(25): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(26): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(26): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(35): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(35): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(49): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(52): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(52): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(24): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(24): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(33): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(33): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(47): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(50): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(50): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(50): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(43): error C2061: 语法错误: 标识符“string”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(39): error C2065: “cout”: 未声明的标识符
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(39): error C2065: “endl”: 未声明的标识符
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(115): error C2061: 语法错误: 标识符“string”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2535: “char *Message::CreateMessage(void)”: 已经定义或声明成员函数
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(115): note: 参见“Message::CreateMessage”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(121): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(124): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(127): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(127): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(133): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(133): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\controlunit.cpp(9): error C2660: “SocketService::InitSocket”: 函数不接受 4 个参数
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(43): note: 参见“SocketService::InitSocket”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\controlunit.cpp(43): error C2660: “Message::CreateMessage”: 函数不接受 4 个参数
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(115): note: 参见“Message::CreateMessage”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\controlunit.cpp(73): error C2039: “GetOSPFRouterTable”: 不是“RouterWithOSPF”的成员
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(17): note: 参见“RouterWithOSPF”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\controlunit.cpp(79): error C2039: “GetOSPFRouterTable”: 不是“RouterWithOSPF”的成员
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(17): note: 参见“RouterWithOSPF”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\controlunit.cpp(83): error C2039: “GetOSPFRouterTable”: 不是“RouterWithOSPF”的成员
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(17): note: 参见“RouterWithOSPF”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\controlunit.cpp(83): error C2660: “Message::CreateOSPFMessage”: 函数不接受 2 个参数
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(121): note: 参见“Message::CreateOSPFMessage”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\controlunit.cpp(98): error C2039: “GetRIPRouterTable”: 不是“RouterWithRIP”的成员
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(17): note: 参见“RouterWithRIP”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\controlunit.cpp(100): error C2039: “GetRIPRouterTable”: 不是“RouterWithRIP”的成员
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(17): note: 参见“RouterWithRIP”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\controlunit.cpp(101): error C2039: “GetRIPRouterTable”: 不是“RouterWithRIP”的成员
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(17): note: 参见“RouterWithRIP”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\controlunit.cpp(105): error C2039: “GetRIPRouterTable”: 不是“RouterWithRIP”的成员
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(17): note: 参见“RouterWithRIP”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\controlunit.cpp(105): error C2660: “Message::CreateRIPMessage”: 函数不接受 2 个参数
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(124): note: 参见“Message::CreateRIPMessage”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\controlunit.cpp(138): error C2039: “DecodeMessage”: 不是“Message”的成员
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(98): note: 参见“Message”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\controlunit.cpp(156): error C3867: “Json::Value::asInt”: 非标准语法；请使用 "&" 来创建指向成员的指针
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\controlunit.cpp(161): error C2660: “Message::EncodeMessage”: 函数不接受 1 个参数
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(127): note: 参见“Message::EncodeMessage”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\controlunit.cpp(188): error C2039: “GetOSPFRouterTable”: 不是“RouterWithOSPF”的成员
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(17): note: 参见“RouterWithOSPF”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\controlunit.cpp(204): error C2660: “RouterWithOSPF::ReceiveUpdatingRouterInfo”: 函数不接受 1 个参数
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(49): note: 参见“RouterWithOSPF::ReceiveUpdatingRouterInfo”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\controlunit.cpp(223): error C2660: “RouterWithRIP::ReceiveUpdatingRouterInfo”: 函数不接受 1 个参数
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(47): note: 参见“RouterWithRIP::ReceiveUpdatingRouterInfo”的声明
+  main.cpp
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(25): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(25): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(26): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(26): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(35): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(35): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(49): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(52): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(52): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(24): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(24): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(33): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(33): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(47): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(50): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(50): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(50): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(43): error C2061: 语法错误: 标识符“string”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(39): error C2065: “cout”: 未声明的标识符
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(39): error C2065: “endl”: 未声明的标识符
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(115): error C2061: 语法错误: 标识符“string”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2535: “char *Message::CreateMessage(void)”: 已经定义或声明成员函数
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(115): note: 参见“Message::CreateMessage”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(121): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(124): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(127): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(127): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(133): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(133): error C2061: 语法错误: 标识符“Value”
+  Message.cpp
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(25): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(25): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(26): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(26): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(35): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(35): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(49): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(52): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(52): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(24): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(24): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(33): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(33): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(47): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(50): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(50): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(50): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(43): error C2061: 语法错误: 标识符“string”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(39): error C2065: “cout”: 未声明的标识符
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(39): error C2065: “endl”: 未声明的标识符
+  RouterWithOSPF.cpp
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(24): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(24): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(33): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(33): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(47): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(50): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(50): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(50): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(43): error C2061: 语法错误: 标识符“string”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(39): error C2065: “cout”: 未声明的标识符
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(39): error C2065: “endl”: 未声明的标识符
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(115): error C2061: 语法错误: 标识符“string”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2535: “char *Message::CreateMessage(void)”: 已经定义或声明成员函数
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(115): note: 参见“Message::CreateMessage”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(121): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(124): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(127): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(127): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(133): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(133): error C2061: 语法错误: 标识符“Value”
+  RouterWithRIP.cpp
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(25): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(25): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(26): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(26): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(35): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(35): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(49): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(52): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(52): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(43): error C2061: 语法错误: 标识符“string”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(39): error C2065: “cout”: 未声明的标识符
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(39): error C2065: “endl”: 未声明的标识符
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(115): error C2061: 语法错误: 标识符“string”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2535: “char *Message::CreateMessage(void)”: 已经定义或声明成员函数
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(115): note: 参见“Message::CreateMessage”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(121): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(124): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(127): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(127): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(133): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(133): error C2061: 语法错误: 标识符“Value”
+  SocketService.cpp
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(25): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(25): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(26): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(26): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(35): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(35): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(49): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(52): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithospf.h(52): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(24): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(24): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(24): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(33): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(33): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(33): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(47): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(50): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(50): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(50): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(115): error C2061: 语法错误: 标识符“string”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2535: “char *Message::CreateMessage(void)”: 已经定义或声明成员函数
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(115): note: 参见“Message::CreateMessage”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(121): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(124): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(127): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(127): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(133): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(133): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.cpp(141): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...

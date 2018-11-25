@@ -1,0 +1,584 @@
+﻿  ControlUnit.cpp
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(25): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(25): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(26): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(26): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(35): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(35): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(49): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(52): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(52): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(26): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(26): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(34): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(34): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(37): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(37): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(37): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(47): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(51): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(54): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(54): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(54): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(43): error C2061: 语法错误: 标识符“string”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(39): error C2065: “cout”: 未声明的标识符
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(39): error C2065: “endl”: 未声明的标识符
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(115): error C2061: 语法错误: 标识符“string”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2535: “char *Message::CreateMessage(void)”: 已经定义或声明成员函数
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(115): note: 参见“Message::CreateMessage”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(121): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(124): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(127): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(127): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(133): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(133): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(155): warning C4251: “Json::Reader::nodes_”: class“std::stack<Json::Value *,std::deque<_Ty,std::allocator<_Ty>>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+          with
+          [
+              _Ty=Json::Value *
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(154): note: 参见“std::stack<Json::Value *,std::deque<_Ty,std::allocator<_Ty>>>”的声明
+          with
+          [
+              _Ty=Json::Value *
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(156): warning C4251: “Json::Reader::errors_”: class“std::deque<Json::Reader::ErrorInfo,std::allocator<_Ty>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+          with
+          [
+              _Ty=Json::Reader::ErrorInfo
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(108): note: 参见“std::deque<Json::Reader::ErrorInfo,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Json::Reader::ErrorInfo
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(157): warning C4251: “Json::Reader::document_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(163): warning C4251: “Json::Reader::commentsBefore_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(43): warning C4251: “Json::FastWriter::document_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::FastWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(94): warning C4251: “Json::StyledWriter::childValues_”: class“std::vector<std::string,std::allocator<_Ty>>”需要有 dll 接口由 class“Json::StyledWriter”的客户端使用
+          with
+          [
+              _Ty=std::string
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\value.h(119): note: 参见“std::vector<std::string,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=std::string
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(95): warning C4251: “Json::StyledWriter::document_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(96): warning C4251: “Json::StyledWriter::indentString_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(152): warning C4251: “Json::StyledStreamWriter::childValues_”: class“std::vector<std::string,std::allocator<_Ty>>”需要有 dll 接口由 class“Json::StyledStreamWriter”的客户端使用
+          with
+          [
+              _Ty=std::string
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\value.h(119): note: 参见“std::vector<std::string,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=std::string
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(154): warning C4251: “Json::StyledStreamWriter::indentString_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledStreamWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(156): warning C4251: “Json::StyledStreamWriter::indentation_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledStreamWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\controlunit.cpp(2): fatal error C1083: 无法打开包括文件: “jsonCpp\reader.h”: No such file or directory
+  main.cpp
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(25): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(25): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(26): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(26): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(35): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(35): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(49): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(52): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(52): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(26): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(26): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(34): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(34): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(37): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(37): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(37): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(47): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(51): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(54): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(54): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(54): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(43): error C2061: 语法错误: 标识符“string”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(39): error C2065: “cout”: 未声明的标识符
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(39): error C2065: “endl”: 未声明的标识符
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(115): error C2061: 语法错误: 标识符“string”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2535: “char *Message::CreateMessage(void)”: 已经定义或声明成员函数
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(115): note: 参见“Message::CreateMessage”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(121): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(124): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(127): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(127): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(133): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(133): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(155): warning C4251: “Json::Reader::nodes_”: class“std::stack<Json::Value *,std::deque<_Ty,std::allocator<_Ty>>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+          with
+          [
+              _Ty=Json::Value *
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(154): note: 参见“std::stack<Json::Value *,std::deque<_Ty,std::allocator<_Ty>>>”的声明
+          with
+          [
+              _Ty=Json::Value *
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(156): warning C4251: “Json::Reader::errors_”: class“std::deque<Json::Reader::ErrorInfo,std::allocator<_Ty>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+          with
+          [
+              _Ty=Json::Reader::ErrorInfo
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(108): note: 参见“std::deque<Json::Reader::ErrorInfo,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Json::Reader::ErrorInfo
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(157): warning C4251: “Json::Reader::document_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(163): warning C4251: “Json::Reader::commentsBefore_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(43): warning C4251: “Json::FastWriter::document_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::FastWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(94): warning C4251: “Json::StyledWriter::childValues_”: class“std::vector<std::string,std::allocator<_Ty>>”需要有 dll 接口由 class“Json::StyledWriter”的客户端使用
+          with
+          [
+              _Ty=std::string
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\value.h(119): note: 参见“std::vector<std::string,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=std::string
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(95): warning C4251: “Json::StyledWriter::document_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(96): warning C4251: “Json::StyledWriter::indentString_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(152): warning C4251: “Json::StyledStreamWriter::childValues_”: class“std::vector<std::string,std::allocator<_Ty>>”需要有 dll 接口由 class“Json::StyledStreamWriter”的客户端使用
+          with
+          [
+              _Ty=std::string
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\value.h(119): note: 参见“std::vector<std::string,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=std::string
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(154): warning C4251: “Json::StyledStreamWriter::indentString_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledStreamWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(156): warning C4251: “Json::StyledStreamWriter::indentation_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledStreamWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+  Message.cpp
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(25): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(25): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(26): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(26): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(35): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(35): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(49): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(52): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(52): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(26): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(26): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(34): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(34): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(37): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(37): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(37): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(47): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(51): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(54): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(54): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(54): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(43): error C2061: 语法错误: 标识符“string”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(39): error C2065: “cout”: 未声明的标识符
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(39): error C2065: “endl”: 未声明的标识符
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(155): warning C4251: “Json::Reader::nodes_”: class“std::stack<Json::Value *,std::deque<_Ty,std::allocator<_Ty>>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+          with
+          [
+              _Ty=Json::Value *
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(154): note: 参见“std::stack<Json::Value *,std::deque<_Ty,std::allocator<_Ty>>>”的声明
+          with
+          [
+              _Ty=Json::Value *
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(156): warning C4251: “Json::Reader::errors_”: class“std::deque<Json::Reader::ErrorInfo,std::allocator<_Ty>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+          with
+          [
+              _Ty=Json::Reader::ErrorInfo
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(108): note: 参见“std::deque<Json::Reader::ErrorInfo,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Json::Reader::ErrorInfo
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(157): warning C4251: “Json::Reader::document_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(163): warning C4251: “Json::Reader::commentsBefore_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(43): warning C4251: “Json::FastWriter::document_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::FastWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(94): warning C4251: “Json::StyledWriter::childValues_”: class“std::vector<std::string,std::allocator<_Ty>>”需要有 dll 接口由 class“Json::StyledWriter”的客户端使用
+          with
+          [
+              _Ty=std::string
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\value.h(119): note: 参见“std::vector<std::string,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=std::string
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(95): warning C4251: “Json::StyledWriter::document_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(96): warning C4251: “Json::StyledWriter::indentString_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(152): warning C4251: “Json::StyledStreamWriter::childValues_”: class“std::vector<std::string,std::allocator<_Ty>>”需要有 dll 接口由 class“Json::StyledStreamWriter”的客户端使用
+          with
+          [
+              _Ty=std::string
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\value.h(119): note: 参见“std::vector<std::string,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=std::string
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(154): warning C4251: “Json::StyledStreamWriter::indentString_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledStreamWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(156): warning C4251: “Json::StyledStreamWriter::indentation_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledStreamWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.cpp(119): warning C4018: “<”: 有符号/无符号不匹配
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.cpp(120): warning C4018: “<”: 有符号/无符号不匹配
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.cpp(170): warning C4018: “<”: 有符号/无符号不匹配
+  RouterWithLS.cpp
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(26): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(26): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(34): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(34): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(37): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(37): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(37): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(47): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(51): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(54): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(54): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(54): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(43): error C2061: 语法错误: 标识符“string”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(39): error C2065: “cout”: 未声明的标识符
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(39): error C2065: “endl”: 未声明的标识符
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(115): error C2061: 语法错误: 标识符“string”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2535: “char *Message::CreateMessage(void)”: 已经定义或声明成员函数
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(115): note: 参见“Message::CreateMessage”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(121): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(124): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(127): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(127): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(133): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(133): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(155): warning C4251: “Json::Reader::nodes_”: class“std::stack<Json::Value *,std::deque<_Ty,std::allocator<_Ty>>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+          with
+          [
+              _Ty=Json::Value *
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(154): note: 参见“std::stack<Json::Value *,std::deque<_Ty,std::allocator<_Ty>>>”的声明
+          with
+          [
+              _Ty=Json::Value *
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(156): warning C4251: “Json::Reader::errors_”: class“std::deque<Json::Reader::ErrorInfo,std::allocator<_Ty>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+          with
+          [
+              _Ty=Json::Reader::ErrorInfo
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(108): note: 参见“std::deque<Json::Reader::ErrorInfo,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Json::Reader::ErrorInfo
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(157): warning C4251: “Json::Reader::document_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(163): warning C4251: “Json::Reader::commentsBefore_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(43): warning C4251: “Json::FastWriter::document_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::FastWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(94): warning C4251: “Json::StyledWriter::childValues_”: class“std::vector<std::string,std::allocator<_Ty>>”需要有 dll 接口由 class“Json::StyledWriter”的客户端使用
+          with
+          [
+              _Ty=std::string
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\value.h(119): note: 参见“std::vector<std::string,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=std::string
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(95): warning C4251: “Json::StyledWriter::document_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(96): warning C4251: “Json::StyledWriter::indentString_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(152): warning C4251: “Json::StyledStreamWriter::childValues_”: class“std::vector<std::string,std::allocator<_Ty>>”需要有 dll 接口由 class“Json::StyledStreamWriter”的客户端使用
+          with
+          [
+              _Ty=std::string
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\value.h(119): note: 参见“std::vector<std::string,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=std::string
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(154): warning C4251: “Json::StyledStreamWriter::indentString_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledStreamWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(156): warning C4251: “Json::StyledStreamWriter::indentation_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledStreamWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+  RouterWithRIP.cpp
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(25): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(25): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(26): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(26): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(35): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(35): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(49): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(52): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(52): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(43): error C2061: 语法错误: 标识符“string”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(39): error C2065: “cout”: 未声明的标识符
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\socketservice.h(39): error C2065: “endl”: 未声明的标识符
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(115): error C2061: 语法错误: 标识符“string”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2535: “char *Message::CreateMessage(void)”: 已经定义或声明成员函数
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(115): note: 参见“Message::CreateMessage”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(121): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(124): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(127): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(127): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(133): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(133): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(155): warning C4251: “Json::Reader::nodes_”: class“std::stack<Json::Value *,std::deque<_Ty,std::allocator<_Ty>>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+          with
+          [
+              _Ty=Json::Value *
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(154): note: 参见“std::stack<Json::Value *,std::deque<_Ty,std::allocator<_Ty>>>”的声明
+          with
+          [
+              _Ty=Json::Value *
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(156): warning C4251: “Json::Reader::errors_”: class“std::deque<Json::Reader::ErrorInfo,std::allocator<_Ty>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+          with
+          [
+              _Ty=Json::Reader::ErrorInfo
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(108): note: 参见“std::deque<Json::Reader::ErrorInfo,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Json::Reader::ErrorInfo
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(157): warning C4251: “Json::Reader::document_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(163): warning C4251: “Json::Reader::commentsBefore_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(43): warning C4251: “Json::FastWriter::document_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::FastWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(94): warning C4251: “Json::StyledWriter::childValues_”: class“std::vector<std::string,std::allocator<_Ty>>”需要有 dll 接口由 class“Json::StyledWriter”的客户端使用
+          with
+          [
+              _Ty=std::string
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\value.h(119): note: 参见“std::vector<std::string,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=std::string
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(95): warning C4251: “Json::StyledWriter::document_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(96): warning C4251: “Json::StyledWriter::indentString_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(152): warning C4251: “Json::StyledStreamWriter::childValues_”: class“std::vector<std::string,std::allocator<_Ty>>”需要有 dll 接口由 class“Json::StyledStreamWriter”的客户端使用
+          with
+          [
+              _Ty=std::string
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\value.h(119): note: 参见“std::vector<std::string,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=std::string
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(154): warning C4251: “Json::StyledStreamWriter::indentString_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledStreamWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(156): warning C4251: “Json::StyledStreamWriter::indentation_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledStreamWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.cpp(4): error C2065: “LOCALNUM”: 未声明的标识符
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.cpp(34): warning C4805: “==”: 在操作中将类型“time_t”与类型“bool”混合不安全
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.cpp(59): warning C4018: “<”: 有符号/无符号不匹配
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.cpp(70): warning C4018: “<”: 有符号/无符号不匹配
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.cpp(182): error C2451: “std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>”类型的条件表达式是非法的
+          with
+          [
+              _Ty=RouterLink
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.cpp(182): note: 没有可用于执行该转换的用户定义的转换运算符，或者无法调用该运算符
+  SocketService.cpp
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(25): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(25): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(26): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(26): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(35): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(35): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(35): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(49): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(52): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(52): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithls.h(52): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(25): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(26): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(26): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(26): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(34): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(34): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(34): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(37): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(37): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(37): error C2334: “{”的前面有意外标记；跳过明显的函数体
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(47): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(51): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(54): error C2143: 语法错误: 缺少“;”(在“<”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(54): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\routerwithrip.h(54): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(115): error C2061: 语法错误: 标识符“string”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(118): error C2535: “char *Message::CreateMessage(void)”: 已经定义或声明成员函数
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(115): note: 参见“Message::CreateMessage”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(121): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(124): error C2061: 语法错误: 标识符“vector”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(127): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(127): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(130): error C2238: 意外的标记位于“;”之前
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(133): error C2653: “Json”: 不是类或命名空间名称
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\message.h(133): error C2061: 语法错误: 标识符“Value”
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(155): warning C4251: “Json::Reader::nodes_”: class“std::stack<Json::Value *,std::deque<_Ty,std::allocator<_Ty>>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+          with
+          [
+              _Ty=Json::Value *
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(154): note: 参见“std::stack<Json::Value *,std::deque<_Ty,std::allocator<_Ty>>>”的声明
+          with
+          [
+              _Ty=Json::Value *
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(156): warning C4251: “Json::Reader::errors_”: class“std::deque<Json::Reader::ErrorInfo,std::allocator<_Ty>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+          with
+          [
+              _Ty=Json::Reader::ErrorInfo
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(108): note: 参见“std::deque<Json::Reader::ErrorInfo,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=Json::Reader::ErrorInfo
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(157): warning C4251: “Json::Reader::document_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\reader.h(163): warning C4251: “Json::Reader::commentsBefore_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::Reader”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(43): warning C4251: “Json::FastWriter::document_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::FastWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(94): warning C4251: “Json::StyledWriter::childValues_”: class“std::vector<std::string,std::allocator<_Ty>>”需要有 dll 接口由 class“Json::StyledWriter”的客户端使用
+          with
+          [
+              _Ty=std::string
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\value.h(119): note: 参见“std::vector<std::string,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=std::string
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(95): warning C4251: “Json::StyledWriter::document_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(96): warning C4251: “Json::StyledWriter::indentString_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(152): warning C4251: “Json::StyledStreamWriter::childValues_”: class“std::vector<std::string,std::allocator<_Ty>>”需要有 dll 接口由 class“Json::StyledStreamWriter”的客户端使用
+          with
+          [
+              _Ty=std::string
+          ]
+  d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\value.h(119): note: 参见“std::vector<std::string,std::allocator<_Ty>>”的声明
+          with
+          [
+              _Ty=std::string
+          ]
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(154): warning C4251: “Json::StyledStreamWriter::indentString_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledStreamWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
+d:\github\comnetproject2\virtualroutingproject\virtualroutingproject\json\writer.h(156): warning C4251: “Json::StyledStreamWriter::indentation_”: class“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”需要有 dll 接口由 class“Json::StyledStreamWriter”的客户端使用
+  c:\program files (x86)\microsoft visual studio\2017\professional\vc\tools\msvc\14.15.26726\include\xstring(4373): note: 参见“std::basic_string<char,std::char_traits<char>,std::allocator<char>>”的声明
